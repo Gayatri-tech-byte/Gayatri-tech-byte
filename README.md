@@ -1,5 +1,5 @@
 
-Hi, I'm Gayatri Murgod 👋
+Hi, I'm Gayatri Murgod 
 
 ### Java Full Stack Developer | Computer Science Engineering Graduate
 
