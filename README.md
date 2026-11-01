@@ -36,9 +36,7 @@ Git | GitHub | Eclipse | VS Code
 - Developed a database management application.
 - Implemented CRUD operations for student fee records.
 
-**Real-Time Car Parking Space Counter**
-- Built a parking space monitoring application using Python and OpenCV.
-- Worked on image processing and vehicle space detection.
+
 
 ### Education
 
